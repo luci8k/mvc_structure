@@ -7,4 +7,7 @@
  */
 
 echo "test";
+if (true) {
+    echo "test";
+}
 ?>
